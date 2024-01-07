@@ -6,7 +6,7 @@ These dashboards (and the attached Excel workings) show how I have cleaned the r
 
 **DASHBOARD 1 -**
 
-Bank Loan Report : SUMMARY DASHBOARD
+**_Bank Loan Report : SUMMARY DASHBOARD_**
 
 This dashboard displays information regarding the following Key Performance Indicators :
   1. Total Loan Applications
@@ -35,8 +35,8 @@ We observe that the Total Funded Amount for Vacations is 2 Million Dollars.
 Out of the total 38.6K applications, total loan application stand at 4K. 
 
 
-
-Bank Loan Report : OVERVIEW DASHBOARD
+  
+_**Bank Loan Report : OVERVIEW DASHBOARD**_
 
 This dashboard visualizes the loans taken in different states and the same has been plotted on the world map. 
 
@@ -52,11 +52,11 @@ It also shows the Loans taken :
 
 
 
-
+      
 
 **DASHBOARD 2 -**
 
-Cofee Sales Dashboard
+_**Cofee Sales Dashboard**_
 
 With this Dashboard, I have visualized the sales of a Coffee House over a given period of time.
 
