@@ -3,6 +3,7 @@
 While learning Advanced Excel for Data Analytics, I have prepared dashboards to have a hands-on practice on all Excel Functions. 
 These dashboards (and the attached Excel workings) show how I have cleaned the raw data, formatted the cleaned data and finally created pivots and charts to visualize the findings.
 
+
 **DASHBOARD 1 -**
 
 Bank Loan Report : SUMMARY DASHBOARD
@@ -48,6 +49,9 @@ It also shows the Loans taken :
   6. By Home Ownership
 
 <img width="898" alt="Bank Dashboard 2" src="https://github.com/vidushi-25/Data-Analysis-Excel-Projects/assets/154007399/06f31f9d-41ff-4699-9521-49141723b69d">
+
+
+
 
 
 **DASHBOARD 2 -**
