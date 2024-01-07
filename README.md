@@ -4,7 +4,7 @@ While learning Advanced Excel for Data Analytics, I have prepared dashboards to 
 These dashboards (and the attached Excel workings) show how I have cleaned the raw data, formatted the cleaned data and finally created pivots and charts to visualize the findings.
 
 
-**DASHBOARD 1 -**
+## **DASHBOARD 1 -**
 
 **_Bank Loan Report : SUMMARY DASHBOARD_**
 
@@ -53,7 +53,7 @@ It also shows the Loans taken :
 
       
 
-**DASHBOARD 2 -**
+## **DASHBOARD 2 -**
 
 _**Cofee Sales Dashboard**_
 
