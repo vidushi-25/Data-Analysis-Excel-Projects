@@ -19,7 +19,6 @@ The Pie Charts represent the percentage of Good Loans and Bad Loans issued and t
 
 Good Loand and Bad Loans have been identified based on the IF formula taking Loan Status as the base. 
 
-Here
 
 <img width="898" alt="Bank Dashboard 1" src="https://github.com/vidushi-25/Data-Analysis-Excel-Projects/assets/154007399/d57d4800-779b-4686-98be-2d18873c10d6">
 
